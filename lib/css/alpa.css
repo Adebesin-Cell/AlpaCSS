@@ -1,0 +1,14 @@
+/**
+ * AlpaCSS is an opensource lite weight 
+ * Css framework. It's a utility based css framework.
+ *
+ * Author: Sakib Hasan
+ * Source: https://www.github.com/alpabyte/AlpaCSS
+ */
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+/*# sourceMappingURL=alpa.css.map */
