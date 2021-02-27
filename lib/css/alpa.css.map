@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "AAAA;;;;;;GAMG;AACH,AAAA,CAAC,CAAC;EACA,UAAU,EAAE,UAAU;EACtB,OAAO,EAAE,GAAG;EACZ,MAAM,EAAE,GAAG;CACZ",
+    "mappings": "AAAA;;;;;;GAMG;AACH,AAAA,CAAC,CAAC;EACA,UAAU,EAAE,UAAU;EACtB,OAAO,EAAE,GAAG;EACZ,MAAM,EAAE,GAAG;CACZ;;AAED;;GAEG",
     "sources": [
         "../scss/alpa.scss",
         "../scss/media/xs/__xs.scss",

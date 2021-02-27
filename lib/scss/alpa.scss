@@ -11,6 +11,15 @@
   margin: 0px;
 }
 
-@import "./media/xs/_xs";
-@import "./media/sm/_sm";
-@import "./media/md/_md";
+/**
+ * All Properties Will Responsive
+ */
+@media screen and (min-width: 0px) {
+  @import "./media/xs/_xs";
+}
+@media screen and (min-width: 568px) {
+  @import "./media/sm/_sm";
+}
+@media screen and (min-width: 768px) {
+  @import "./media/md/_md";
+}
