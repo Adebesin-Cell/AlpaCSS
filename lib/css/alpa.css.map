@@ -1,8 +1,11 @@
 {
     "version": 3,
-    "mappings": "AAAA;;;;;;GAMG;AACH,AAAA,CAAC,CAAC;EACA,UAAU,EAAE,UAAU;EACtB,OAAO,EAAE,GAAG;EACZ,MAAM,EAAE,GAAG;CACZ;;AAED;;GAEG",
+    "mappings": "AAAA;;;;;;GAMG;AACH,AAAA,CAAC,CAAC;EACA,UAAU,EAAE,UAAU;EACtB,OAAO,EAAE,GAAG;EACZ,MAAM,EAAE,GAAG;CACZ",
     "sources": [
-        "../scss/alpa.scss"
+        "../scss/alpa.scss",
+        "../scss/media/xs/__xs.scss",
+        "../scss/media/sm/__sm.scss",
+        "../scss/media/md/__md.scss"
     ],
     "names": [],
     "file": "alpa.css"
